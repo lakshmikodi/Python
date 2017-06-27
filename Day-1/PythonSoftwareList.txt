@@ -1,0 +1,53 @@
+Please do the below things accordingly.
+
+Step 1: 
+
+Download and install VMware Workstation : Version 12.0.0 
+
+https://my.vmware.com/web/vmware/info?slug=desktop_end_user_computing/vmware_workstation_pro/12_0
+
+VMware Workstation 12 Pro Keys
+5A02H-AU243-TZJ49-GTC7K-3C61N
+1J0KL-CZK41-H8JF3-0JAUK-CWC27
+GV7R8-03G44-4855Y-7PWEE-NL8DA
+
+Step 2:  # We need to Download and Install Linux OS(i.e. Centos)
+Download : Centos 6.4 (32 or 64 bit)
+
+32-bit:
+http://mirror.nsc.liu.se/centos-store/6.4/isos/i386/
+
+64-Bit:
+http://mirror.nsc.liu.se/centos-store/6.4/isos/x86_64/
+
+Download : Centos-7.0 (64 bit) 64-Bit:
+http://centos.excellmedia.net/7/isos/x86_64/
+
+
+Download the iso file which has >=3.5G:
+
+Sample:
+CentOS-6.4-i386-bin-DVD1.iso	2013-Mar-06 01:42:40	3.5G	application/octet-stream
+
+Note: Which as 3.5G size
+
+Vmware Fusion :
+http://warezcrack.net/vmware-fusion-pro-8-license-key-mac/
+
+Step 3: Download the putty tool and send a shortcut to desktop :
+Note: [To connect Linux/Unix mechines remotely]
+Putty  (http://www.putty.org/)
+
+Step 4: Download and Install Winscp[To connect Linux/Unix mechines remotely]
+https://winscp.net/eng/docs/installation
+
+Step 5: Download Python software i.e. 3.6.0 for linux or windows:
+https://www.python.org/
+
+Step 6: Python IDE tool: # To download Pycharm[3rd Party IDE]
+https://www.jetbrains.com/pycharm/download/#section=windows
+
+Note: Download "Community" version
+
+Step 7: # To download Anaconda[3rd Party IDE]
+https://www.continuum.io/downloads
